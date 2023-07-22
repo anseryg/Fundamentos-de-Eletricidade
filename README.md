@@ -26,12 +26,12 @@
   2. **Smartphones e Tablets**: Utilizam baixas potências e altas frequências para proporcionar conectividade e funcionalidades em dispositivos portáteis.
 
 ## 2. Teoria Atômica
-### O que é o Átomo?
+### 2.1 O que é o Átomo?
 O átomo é a menor unidade básica da matéria, sendo a "blocos de construção" de tudo ao nosso redor.
 
 Ou seja, tudo é básicamente átomo. Se pudessemos ir cortando até ver o último pedaço de algo, veriamos o átomo, porém o átomo não é visivel a olho nú e nem a microscopio. Vejamos por exemplo a água (Molécula de água), H2O, Vemos que ela possui 3 Átomos, sendo 2 deles de Hidrogênio e 1 deles é de Óxigênio.
 
-### Composição do Átomo
+### 2.2 Estrutura Atômica
 #### --- Partículas ---
 No desenho de um átomo, podemos ver umas particulas circulando as particulas que estão no centro, isso é a representação da Eletrosfera. A eletrosfera é uma representação simplificada da região ao redor do núcleo de um átomo, onde os elétrons são visualizados como partículas circulando em órbitas específicas. Entretanto, na realidade, os elétrons não se movem em órbitas circulares definidas. Em vez disso, eles têm comportamentos mais complexos e são descritos por orbitais, que são regiões de alta probabilidade de encontrá-los em torno do núcleo.
 
@@ -41,11 +41,11 @@ No desenho de um átomo, podemos ver umas particulas circulando as particulas qu
 
 O átomo é composto por três partículas subatômicas principais:
 
-  1. **Prótons**: Partículas carregadas positivamente encontradas no núcleo do átomo. Cada próton possui uma carga elétrica positiva. (Representadas em vermelho na imagem acima)
+  1. **Prótons**: Partículas carregadas positivamente encontradas no núcleo do átomo. Cada próton possui uma carga elétrica positiva. (Representadas em vermelho na imagem acima).
 
-  2. **Elétrons**: Partículas carregadas negativamente que orbitam em torno do núcleo em camadas eletrônicas. Cada elétron possui uma carga elétrica negativa. (Representados em azul na imagem acima)
+  2. **Elétrons**: Partículas carregadas negativamente que orbitam em torno do núcleo em camadas eletrônicas. Cada elétron possui uma carga elétrica negativa. (Representados em azul na imagem acima).
 
-  3. **Nêutrons**: Partículas com carga elétrica neutra também encontradas no núcleo do átomo. Eles não possuem carga elétrica. (Representadas em branco na imagem acima)
+  3. **Nêutrons**: Partículas com carga elétrica neutra também encontradas no núcleo do átomo. Eles não possuem carga elétrica. (Representadas em branco na imagem acima).
 
 #### --- Camadas ---
 Um átomo é composto por várias camadas. Se conseguíssemos colocar um átomo, como o Átomo de Cobre, em uma mesa e observá-lo de cima, veríamos algo semelhante a isto:
@@ -102,3 +102,21 @@ A leitura da tabela periódica é algo relativamente simples, onde as informaç�
 | N° Atômico:      | 79 |
 | N° de Massa:     | aprox. 197 |
 
+
+### 2.3 Estudo das Partículas
+#### Comportamento das Partículas: *Fora do átomo*
+Para estudar os comportamentos da partículas primeiramente vamos observa-las fora do átomo, simulando uma remoção das partículas de um átomo, obtemos as 3 partículas (próton, elétron e nêutron).
+
+<div align="center">
+<img src="./img/separacao-particulas.jpg" height="200px"></img>
+</div>
+
+Agora imagine dois ímãs. Quando você os aproxima com os mesmos polos, por exemplo, colocando o polo norte de um ímã próximo ao polo norte do outro, eles irão se repelir. Porém, se você aproximar um ímã ao outro com polos invertidos, ou seja, o polo norte de um ímã próximo ao polo sul do outro, eles irão se atrair.
+
+Tendo isso em mente, as partículas funcionam de forma semelhante, vamos coloca-las em um pêndulo para melhor entendimento:
+
+<div align="center">
+  <img src="./img/pendulo-particulas.jpg" height="300px"></img>
+</div>
+
+Conforme visto acima, duas cargas com sinais iguais - positivas e positivas, ou negativas e negativas - irão se repelir. Por outro lado, cargas com sinais diferentes serão atraídas uma pela outra e permanecerão unidas; em outras palavras, cargas opostas se atraem.
