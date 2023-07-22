@@ -80,3 +80,25 @@ N: Nêutrons
 Nm: Número de Massa  
 Na: Número Atômico
 ```
+
+#### --- Tabela Periódica ---
+
+As informações do número atômico e do número de massas vem da tabela periódica, como mostrada na imagem abaixo:
+
+<div align="center">
+<img src="./img/tabela-periodica-hq.png" width="800px"></img>
+</div>
+
+ [Clique aqui para uma melhor visualização da Tabela Periódica](https://artsexperiments.withgoogle.com/periodic-table/)
+
+A leitura da tabela periódica é algo relativamente simples, onde as informações sobre cada elemento está logo abaixo ou acima do símbolo químico dele. Podemos ver essas informações se pegarmos o Ouro por exemplo:
+
+
+
+| Elemento:        | <img src="./img/ouro.jpg" width="120px"> |
+|:-----------------|:--:|
+| Nome:            | Ouro|
+| Símbolo Químico: | Au |
+| N° Atômico:      | 79 |
+| N° de Massa:     | aprox. 197 |
+
