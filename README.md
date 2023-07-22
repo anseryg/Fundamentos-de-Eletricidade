@@ -36,7 +36,7 @@ Ou seja, tudo é básicamente átomo. Se pudessemos ir cortando até ver o últi
 No desenho de um átomo, podemos ver umas particulas circulando as particulas que estão no centro, isso é a representação da Eletrosfera. A eletrosfera é uma representação simplificada da região ao redor do núcleo de um átomo, onde os elétrons são visualizados como partículas circulando em órbitas específicas. Entretanto, na realidade, os elétrons não se movem em órbitas circulares definidas. Em vez disso, eles têm comportamentos mais complexos e são descritos por orbitais, que são regiões de alta probabilidade de encontrá-los em torno do núcleo.
 
 <div align="center">
-  <img src="./img/atomo.png" width="300px"></img>
+  <img src="./img/atomo-cobre.jpg" height="300px"></img>
 </div>
 
 O átomo é composto por três partículas subatômicas principais:
@@ -86,7 +86,7 @@ Na: Número Atômico
 As informações do número atômico e do número de massas vem da tabela periódica, como mostrada na imagem abaixo:
 
 <div align="center">
-<img src="./img/tabela-periodica-hq.png" width="800px"></img>
+<img src="./img/tabela-periodica.jpg" width="600px"></img>
 </div>
 
  [Clique aqui para uma melhor visualização da Tabela Periódica](https://artsexperiments.withgoogle.com/periodic-table/)
