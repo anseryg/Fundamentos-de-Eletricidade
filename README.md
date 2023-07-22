@@ -32,12 +32,51 @@ O átomo é a menor unidade básica da matéria, sendo a "blocos de construção
 Ou seja, tudo é básicamente átomo. Se pudessemos ir cortando até ver o último pedaço de algo, veriamos o átomo, porém o átomo não é visivel a olho nú e nem a microscopio. Vejamos por exemplo a água (Molécula de água), H2O, Vemos que ela possui 3 Átomos, sendo 2 deles de Hidrogênio e 1 deles é de Óxigênio.
 
 ### Composição do Átomo
+#### --- Partículas ---
 No desenho de um átomo, podemos ver umas particulas circulando as particulas que estão no centro, isso é a representação da Eletrosfera. A eletrosfera é uma representação simplificada da região ao redor do núcleo de um átomo, onde os elétrons são visualizados como partículas circulando em órbitas específicas. Entretanto, na realidade, os elétrons não se movem em órbitas circulares definidas. Em vez disso, eles têm comportamentos mais complexos e são descritos por orbitais, que são regiões de alta probabilidade de encontrá-los em torno do núcleo.
+
+<div align="center">
+  <img src="./img/atomo.png" width="300px"></img>
+</div>
 
 O átomo é composto por três partículas subatômicas principais:
 
-  1. **Prótons**: Partículas carregadas positivamente encontradas no núcleo do átomo. Cada próton possui uma carga elétrica positiva.
+  1. **Prótons**: Partículas carregadas positivamente encontradas no núcleo do átomo. Cada próton possui uma carga elétrica positiva. (Representadas em vermelho na imagem acima)
 
-  2. **Elétrons**: Partículas carregadas negativamente que orbitam em torno do núcleo em camadas eletrônicas. Cada elétron possui uma carga elétrica negativa.
+  2. **Elétrons**: Partículas carregadas negativamente que orbitam em torno do núcleo em camadas eletrônicas. Cada elétron possui uma carga elétrica negativa. (Representados em azul na imagem acima)
 
-  3. **Nêutrons**: Partículas com carga elétrica neutra também encontradas no núcleo do átomo. Eles não possuem carga elétrica.
+  3. **Nêutrons**: Partículas com carga elétrica neutra também encontradas no núcleo do átomo. Eles não possuem carga elétrica. (Representadas em branco na imagem acima)
+
+#### --- Camadas ---
+Um átomo é composto por várias camadas. Se conseguíssemos colocar um átomo, como o Átomo de Cobre, em uma mesa e observá-lo de cima, veríamos algo semelhante a isto:
+
+<div align="center">
+  <img src="./img/atomo-cobre-infos.jpg" height="300px"></img>
+</div>
+
+Na imagem acima podemos observar que o Átomo de cobre possui 4 camadas, sendo elas chamadas de K, L, M e N, estando a K a mais próxima do núcleo e assim por diante, e caso houvesse mais camadas, elas seriam designadas como O, P, Q, etc...
+
+Cada camada possui um nível máximo de elétrons que pode haver nela, sendo assim, o número máximo de elétrons em cada camada seria:
+
+
+| Nível | Camada | N° máximo de elétrons |
+|:-----:|:------:|:---------------------:|
+|  1°   |   K    |           2           |
+|  2°   |   L    |           8           |
+|  3°   |   M    |          18           |
+|  4°   |   N    |          32           |
+
+A última camada de um átomo é denominada de "Camada de Valência" e os elétrons que estãos nesta camada também possuem um nome, sendo chamados de "Elétrons de Valência". E essa é a camada mais importante para o estudo da eletricidade pois toda interação elétrica ocorre nessa camada.
+
+O número atômico indica quantos elétrons e quantos prótons temos neste nosso átomo, no caso do Átomo de cobre, o número atômico dele é 29, sendo assim ele possui 29 elétrons e 29 prótons. E o número de massa é possivel identificar o número de nêutrons que esse Átomo possui, o número de nêutrons corresponde a:
+
+```
+N = Nm - Na
+N = 64 - 29
+N = 35 nêutrons
+
+
+N: Nêutrons  
+Nm: Número de Massa  
+Na: Número Atômico
+```
