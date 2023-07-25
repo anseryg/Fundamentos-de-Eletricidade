@@ -152,11 +152,11 @@ Na imagem acima, de um lado podemos ver duas partículas sendo atraídas, sendo 
 
 - **Fórmula:**
 ```
-       Q₁ × Q₂
+       Q1 × Q2
 F = K ---------
           r²
 
-Q₁ e Q₂ = carga em coulomb
+Q2 e Q2 = carga em coulomb
    k    = 9 × 10⁹
    r    = distância em metros
 ```
@@ -165,7 +165,7 @@ Essa é a fórmula para calcular a força de atração ou repulsão entre as car
   
   - **F** - É a Força
   - **K** - É um número, uma constante, ele depende da região, do ambiente onde vai estar essas cargas. Nesse caso, é a do vácuo (9 × 10⁹).
-  - **Q₁ e Q₂** - Cada partículas dessas possui uma carga, e essa carga é chamada de Q, e a unidade de medida dessas cargas é dada de Coulomb (C).
+  - **Q1 e Q2** - Cada partículas dessas possui uma carga, e essa carga é chamada de Q, e a unidade de medida dessas cargas é dada de Coulomb (C).
   - **r** - É a distância, em metros. (na fórmula ela está ao quadrado)
 
 A distância entre as cargas tem uma influência gigantesca nas forças que estão envolvidas entre as cargas.
