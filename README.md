@@ -120,3 +120,26 @@ Tendo isso em mente, as partículas funcionam de forma semelhante, vamos coloca-
 </div>
 
 Conforme visto acima, duas cargas com sinais iguais - positivas e positivas, ou negativas e negativas - irão se repelir. Por outro lado, cargas com sinais diferentes serão atraídas uma pela outra e permanecerão unidas; em outras palavras, cargas opostas se atraem.
+
+#### Comportamento das Partículas: *Dentro do átomo*
+Para estudarmos o comportamento das partículas dentro do átomo, analisaremos dois exemplos: o átomo de hidrogênio e o de hélio.
+
+<div align="center">
+  <img src="./img/particula-dentro-atomo.jpg" height="300px"></img>
+</div>
+
+Conforme observado na imagem acima, o átomo de hidrogênio possui apenas 1 próton em seu núcleo e 1 elétron em sua eletrosfera, não apresentando nêutrons.
+
+Um detalhe crucial sobre as partículas dentro de um átomo é que a distância entre elas é mantida, mesmo havendo uma atração de cargas opostas. O elétron não se aproxima e gruda no próton; existe uma força que os mantém afastados. E se houvesse outra camada, também será mantida a distância entre a outra camada e o núcleo e assim por diante.
+
+Em um dos átomos, podemos observar a presença de apenas um elétron em sua camada K, ao invés de dois. Essa condição não representa um problema, pois a camada K pode conter no máximo dois elétrons, mas não é obrigatório que esteja totalmente preenchida com dois elétrons. Também nesse caso, a camada K é a camada de valência, pois é a última camada desse átomo, mesmo sendo a única.
+
+Outra coisa é, relembrando que cargas iguais se repelem, no nucleo do átomo, é possivel ver 2 partículas de cargas iguais, porém elas não se repelem, pois os nêutrons servem como se fossem uma barra de proteção entre um próton e outro, fazendo assim anular a força de repulsão entre os prótons, e também uma das explicações do porque o nêutron tem uma massa um pouco maior que o próton e elétron.
+
+
+### 2.4 Cargas e Partículas
+#### Lei de Coulomb
+
+- **Força de Atração dentre as Cargas:**  
+*Cientista francês Charles Coulomb (173 -1806)*
+
