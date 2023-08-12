@@ -25,6 +25,21 @@
 
   2. **Smartphones e Tablets**: Utilizam baixas potências e altas frequências para proporcionar conectividade e funcionalidades em dispositivos portáteis.
 
+## *Tabela de Medidas*
+### Tabela de Medidas Físicas e Unidades Correspondentes
+
+Esta tabela fornece uma referência rápida para as principais grandezas físicas e suas unidades no contexto da física. Cada medida é acompanhada por sua unidade exclusiva, essencial para realizar cálculos e análises precisas.
+
+|    Grandeza    | Unidade | Símbolo |
+|:--------------:|:------:|:--------:|
+|   Comprimento   | Metro | m |
+| Tempo | Segundo | s |
+| Massa | Quilograma | kg |
+| Força | Newton | N |
+| Energia | Joule | J |
+| Carga Elétrica | Coulomb | C |
+| Tensão Elétrica | Volt | V
+
 ## 2. Teoria Atômica
 ### 2.1 O que é o Átomo?
 O átomo é a menor unidade básica da matéria, sendo a "blocos de construção" de tudo ao nosso redor.
